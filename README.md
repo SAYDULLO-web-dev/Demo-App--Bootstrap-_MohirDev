@@ -49,10 +49,15 @@ https://github.com/user-attachments/assets/8e36349d-fd95-468e-8f86-357f03a84e6f
  3. Modify the code as needed to experiment and practice Bootstrap features.
 
 📂 File Structure
+
 ├── CSS/
+
 │   └── custom.css   # Custom styles for additional design enhancements
+
 ├── images/
+
 │   └── head.png     # Placeholder images for the website
+
 ├── index.html       # Main HTML file for the application
 
 
